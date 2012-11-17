@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindIt</string>
+    <string name = "pswd"><b>Enter Password:</b></string>
+    <string name = "confirm_pswd"><b>Confirm Password:</b></string>
+    <string name = "btn_login"><b>Login</b></string>
+    <string name = "user_name"><b>User Name:</b></string>
+    <string name = "hint"><b>Enter Password Hint:</b></string>
+    <string name = "forgotPswd"><u><b>Forgot Password?</b></u></string>
+    <string name = "aboutTitle">About FindIt</string>
+    <string name = "features">FindIt Features</string>
+    <string name = "howWork">How Does FindIt Work?</string>
+    <string name = "security">FindIt Security</string>
+    <string name = "oldPswd"><b>Current Password:</b></string>
+    <string name = "newPswd"><b>New Password:</b></string>
+    <string name = "newHint"><b>New Password Hint:</b></string>
+    <string name = "btn_update"><b>Update</b></string>
+    <string name = "dropbox_uname"><b>Account Name:</b></string>
+    <string name = "dropbox_password"><b>Password:</b></string>
+    <string name = "dropbox_btn_testconn"><b>Test Connection</b></string>
+    <string name = "dropbox_btn_update"><b>Update</b></string>
+    <string name = "ownerName"><b>Owner Name:</b></string>
+    <string name = "alternateNumber"><b>Alternate Contact Number:</b></string>   
+    <string name = "lockPswd"><b>Password:</b></string> 
+    <string name = "lockContactOwner"><u><b>Contact Owner </b></u></string> 
+    <string name = "lockCall">if this is not your device.</string> 
+    <string name = "lockEnabled">Device Administration is Enable.</string>  
+    
+    <!-- ============================== -->
+    <!--  app/device policies examples strings     -->
+    <!-- ============================== -->
+
+    <string name="sample_device_admin">Sample Device Admin</string>
+    <string name="sample_device_admin_description">Sample code for writing
+        a DeviceAdmin class.  This implementation provides a UI (in ApiDemos)
+        for you to directly control what the DeviceAdmin does with the
+        system.</string>    
+    
+</resources>

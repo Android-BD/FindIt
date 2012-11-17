@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="#FFFFFF">
+  
+  <ImageView android:id="@+id/icon_listRowIcon"
+		android:layout_width="fill_parent"
+		android:paddingLeft="2px"
+		android:paddingRight="2px"
+		android:paddingTop="2px"
+		android:paddingBottom="5px"
+		android:layout_height="wrap_content"
+		android:src="@drawable/fi_logo" /> 
+		
+  <TextView android:id="@+id/txtView_mapNotify"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content"
+	    android:textStyle="bold"
+	    android:textSize="15sp"
+	    android:textColor="#000000"/>
+  
+  <com.google.android.maps.MapView android:id="@+id/mapview_filocation"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" 
+    android:enabled="true" 
+    android:clickable="true" 
+    android:apiKey="0OO0rK9UzAfrhlIzcEp7QGgMMsUVO2rQRMPjpVg" /> 
+</LinearLayout>
